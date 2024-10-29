@@ -11,3 +11,5 @@ def new_code(a):
     pass
 
 print("New code is added!!!")
+
+print("I  love pizza and fries!!!")
