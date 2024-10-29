@@ -12,4 +12,9 @@ def new_code(a):
 
 print("New code is added!!!")
 
+<<<<<<< HEAD
 print("I  love pizza and fries!!!")
+=======
+print("I  love pizza and fries!!!")
+
+>>>>>>> thirsty
