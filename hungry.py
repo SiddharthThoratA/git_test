@@ -12,5 +12,5 @@ def new_code(a):
 
 print("New code is added!!!")
 
-def thirsty_branch():
-    pass
+print("I  love pizza and fries!!!")
+
