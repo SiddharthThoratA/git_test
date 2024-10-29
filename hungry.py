@@ -6,3 +6,8 @@ def multiplication(a,b):
 
 a = multiplication(2,4)
 print(a)
+
+def new_code(a):
+    pass
+
+print("New code is added!!!")
